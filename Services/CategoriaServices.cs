@@ -17,18 +17,17 @@ namespace BackendBG.Services
             this._context = context;
         }
 
-        public async Task<Result> GetCategorias(int id)
+        public async Task<Result> GetCategorias()
         {
             var result = new Result();
             try
             {
 
-                result.Data = await _context.Categoria.Where(categoriaDB => categoriaDB.IdCategoria == id).Select(
+                result.Data = await _context.Categoria.Select(
                     categoriaDTO => new CategoriaDTO
                     {
                         IdCategoria=categoriaDTO.IdCategoria,   
                         DescripCategoria=categoriaDTO.DescripCategoria,
-                        Productos=categoriaDTO.Productos
                     }
                     ).ToListAsync();
                 result.Code = dynamicEmpty.IsDynamicEmpty(result.Data) ? "204" : "200";

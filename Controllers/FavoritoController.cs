@@ -39,7 +39,7 @@ namespace BackendBG.Controllers
             var Result = new Result();
             try
             {
-                Result = await _favorito.PostFavortios(favorito);
+                Result = await _favorito.PostFavoritos(favorito);
             }
             catch (Exception ex)
             {
@@ -54,7 +54,7 @@ namespace BackendBG.Controllers
             var Result = new Result();
             try
             {
-                Result = await _favorito.DeleteFavortios(favorito);
+                Result = await _favorito.DeleteFavoritos(favorito);
             }
             catch (Exception ex)
             {

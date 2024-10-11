@@ -1,11 +1,13 @@
 ﻿using BackendBG.DTOs;
+using BackendBG.Interfaces;
 using BackendBG.Models;
+using BackendBG.Scrutor;
 using BackendBG.Utilitarios;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendBG.Services
 {
-    public class FavoritoServices
+    public class FavoritoServices:IFavortios, IServices<Favorito>
     {
         private readonly DatabaseBgContext _context;
         private LogError log = new LogError();
@@ -29,8 +31,10 @@ namespace BackendBG.Services
                         IdFavorito=favoritoDTO.IdFavorito,
                         IdCategoria=favoritoDTO.IdCategoria,
                         IdProducto=favoritoDTO.IdProducto,  
-                        descripCategoria=favoritoDTO.IdCategoriaNavigation.DescripCategoria ,
-                        descripProducto=favoritoDTO.IdProductoNavigation.NameProducto  
+                        descripCategoria=favoritoDTO.IdCategoriaNavigation.DescripCategoria,
+                        descripProducto=favoritoDTO.IdProductoNavigation.NameProducto,
+                        precioProducto= favoritoDTO.IdProductoNavigation.Precio,
+                        imagenProducto = favoritoDTO.IdProductoNavigation.FotoProducto
                     }
                     ).ToListAsync();
                 result.Code = dynamicEmpty.IsDynamicEmpty(result.Data) ? "204" : "200";
@@ -45,7 +49,7 @@ namespace BackendBG.Services
 
             return result;
         }
-        public async Task<Result> PostFavorito(Favorito Favorito)
+        public async Task<Result> PostFavoritos(Favorito Favorito)
         {
             var Result = new Result();
             try
@@ -54,7 +58,7 @@ namespace BackendBG.Services
                 _context.Favoritos.Add(Favorito);
                 await _context.SaveChangesAsync();
 
-                Result.Code = "000";
+                Result.Code = "200";
                 Result.Message = "Se insertó correctamente";
             }
             catch (Exception ex)
@@ -65,16 +69,16 @@ namespace BackendBG.Services
             }
             return Result;
         }
-        public async Task<Result> DeleteFavorito(Favorito Favorito)
+        public async Task<Result> DeleteFavoritos(Favorito Favorito)
         {
             var Result = new Result();
             try
             {
-
-                _context.Favoritos.Remove(Favorito);
+                var deleteFavorito = await _context.Favoritos.Where(favortioDB => favortioDB.IdProducto == Favorito.IdProducto).FirstOrDefaultAsync();
+                _context.Favoritos.Remove(deleteFavorito);
                 await _context.SaveChangesAsync();
 
-                Result.Code = "000";
+                Result.Code = "200";
                 Result.Message = "Se elimino correctamente";
             }
             catch (Exception ex)

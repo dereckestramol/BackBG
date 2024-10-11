@@ -19,12 +19,12 @@ namespace BackendBG.Controllers
     }
         [HttpGet]
     [Route("GetCategoria")]
-    public async Task<Result> Getcategoria(int categoriaID)
+    public async Task<Result> Getcategoria()
     {
         var Result = new Result();
         try
         {
-            Result = await _favorito.GetCategorias(categoriaID);
+            Result = await _favorito.GetCategorias();
         }
         catch (Exception ex)
         {

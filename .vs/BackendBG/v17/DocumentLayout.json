@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\services\\productoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:services\\productoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\services\\categoriaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:services\\categoriaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\interfaces\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:interfaces\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\services\\favoritoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:services\\favoritoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\dtos\\favoritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:dtos\\favoritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\controllers\\favoritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:controllers\\favoritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\interfaces\\ifavortios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:interfaces\\ifavortios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:models\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\models\\databasebgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:models\\databasebgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:09:03.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\CategoriaServices.cs",
+              "RelativeDocumentMoniker": "Services\\CategoriaServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\CategoriaServices.cs",
+              "RelativeToolTip": "Services\\CategoriaServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:23:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoria.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Interfaces\\ICategoria.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoria.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Interfaces\\ICategoria.cs",
+              "RelativeToolTip": "Interfaces\\ICategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:22:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:22:35.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\CategoriaDTO.cs",
+              "RelativeToolTip": "DTOs\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:22:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavoritoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\FavoritoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\FavoritoDTO.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\FavoritoDTO.cs",
+              "RelativeToolTip": "DTOs\\FavoritoDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:57:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\ProductoServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductoServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\ProductoServices.cs",
+              "RelativeToolTip": "Services\\ProductoServices.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:35:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFavortios.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Interfaces\\IFavortios.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFavortios.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Interfaces\\IFavortios.cs",
+              "RelativeToolTip": "Interfaces\\IFavortios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:11:31.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoritoController.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Controllers\\FavoritoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoritoController.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Controllers\\FavoritoController.cs",
+              "RelativeToolTip": "Controllers\\FavoritoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:08:11.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoritoServices.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\FavoritoServices.cs",
+              "RelativeDocumentMoniker": "Services\\FavoritoServices.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\FavoritoServices.cs",
+              "RelativeToolTip": "Services\\FavoritoServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:05:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:56:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Models\\Favorito.cs",
+              "RelativeDocumentMoniker": "Models\\Favorito.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Models\\Favorito.cs",
+              "RelativeToolTip": "Models\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:56:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseBgContext.cs",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Models\\DatabaseBgContext.cs",
+              "RelativeDocumentMoniker": "Models\\DatabaseBgContext.cs",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Models\\DatabaseBgContext.cs",
+              "RelativeToolTip": "Models\\DatabaseBgContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:11:36.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T03:09:29.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

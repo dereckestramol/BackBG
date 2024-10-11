@@ -12,6 +12,8 @@ namespace BackendBG.DTOs
 
         public int? IdCategoria { get; set; }
         public string? descripCategoria { get; set; }
+        public double? precioProducto { get; set; }
+        public string? imagenProducto {get; set;}
 
     }
 }
