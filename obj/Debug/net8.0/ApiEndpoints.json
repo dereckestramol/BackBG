@@ -1,5 +1,123 @@
 [
   {
+    "ContainingType": "BackendBG.Controllers.CategoriaController",
+    "Method": "Getcategoria",
+    "RelativePath": "Categoria/GetCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoriaID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BackendBG.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendBG.Controllers.FavoritoController",
+    "Method": "DeleteFavorito",
+    "RelativePath": "Favorito/DeleteFavorito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "favorito",
+        "Type": "BackendBG.Models.Favorito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BackendBG.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendBG.Controllers.FavoritoController",
+    "Method": "GetFavorito",
+    "RelativePath": "Favorito/GetFavorito",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BackendBG.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendBG.Controllers.FavoritoController",
+    "Method": "PostFavorito",
+    "RelativePath": "Favorito/PostFavorito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "favorito",
+        "Type": "BackendBG.Models.Favorito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BackendBG.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BackendBG.Controllers.ProductoController",
+    "Method": "GetProducto",
+    "RelativePath": "Producto/GetProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "BackendBG.Utilitarios.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "BackendBG.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

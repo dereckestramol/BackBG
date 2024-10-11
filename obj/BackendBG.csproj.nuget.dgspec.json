@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viamatica\\Documents\\BG\\BackendBG\\BackendBG\\BackendBG.csproj": {}
+    "C:\\Users\\viamatica\\Documents\\BG\\hub\\BackendBG\\BackendBG\\BackendBG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viamatica\\Documents\\BG\\BackendBG\\BackendBG\\BackendBG.csproj": {
+    "C:\\Users\\viamatica\\Documents\\BG\\hub\\BackendBG\\BackendBG\\BackendBG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\BG\\BackendBG\\BackendBG\\BackendBG.csproj",
+        "projectUniqueName": "C:\\Users\\viamatica\\Documents\\BG\\hub\\BackendBG\\BackendBG\\BackendBG.csproj",
         "projectName": "BackendBG",
-        "projectPath": "C:\\Users\\viamatica\\Documents\\BG\\BackendBG\\BackendBG\\BackendBG.csproj",
+        "projectPath": "C:\\Users\\viamatica\\Documents\\BG\\hub\\BackendBG\\BackendBG\\BackendBG.csproj",
         "packagesPath": "C:\\Users\\viamatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viamatica\\Documents\\BG\\BackendBG\\BackendBG\\obj\\",
+        "outputPath": "C:\\Users\\viamatica\\Documents\\BG\\hub\\BackendBG\\BackendBG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
