@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\database\\querycreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:database\\querycreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -57,6 +61,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\models\\databasebgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:models\\databasebgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|c:\\users\\derec\\onedrive\\documents\\viamatica\\bg\\backbg\\database\\querycreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B6845BCD-885A-4F56-B5FD-80876F0D5581}|BackendBG.csproj|solutionrelative:database\\querycreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +82,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "queryCreate.sql ",
+              "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Database\\queryCreate.sql",
+              "RelativeDocumentMoniker": "Database\\queryCreate.sql",
+              "ToolTip": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Database\\queryCreate.sql",
+              "RelativeToolTip": "Database\\queryCreate.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-11T06:39:32.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -82,12 +102,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:09:03.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T06:09:03.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoriaServices.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\CategoriaServices.cs",
               "RelativeDocumentMoniker": "Services\\CategoriaServices.cs",
@@ -95,12 +114,11 @@
               "RelativeToolTip": "Services\\CategoriaServices.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:23:00.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T05:23:00.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ICategoria.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Interfaces\\ICategoria.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICategoria.cs",
@@ -108,12 +126,11 @@
               "RelativeToolTip": "Interfaces\\ICategoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:22:54.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T05:22:54.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
@@ -121,12 +138,11 @@
               "RelativeToolTip": "Controllers\\CategoriaController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:22:35.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T05:22:35.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CategoriaDTO.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\CategoriaDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoriaDTO.cs",
@@ -134,12 +150,11 @@
               "RelativeToolTip": "DTOs\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:22:26.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T05:22:26.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FavoritoDTO.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\FavoritoDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\FavoritoDTO.cs",
@@ -147,12 +162,11 @@
               "RelativeToolTip": "DTOs\\FavoritoDTO.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:57:03.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:57:03.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductoServices.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\ProductoServices.cs",
               "RelativeDocumentMoniker": "Services\\ProductoServices.cs",
@@ -160,12 +174,11 @@
               "RelativeToolTip": "Services\\ProductoServices.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAowBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:35:26.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T04:35:26.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IFavortios.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Interfaces\\IFavortios.cs",
               "RelativeDocumentMoniker": "Interfaces\\IFavortios.cs",
@@ -173,12 +186,11 @@
               "RelativeToolTip": "Interfaces\\IFavortios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:11:31.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T04:11:31.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FavoritoController.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Controllers\\FavoritoController.cs",
               "RelativeDocumentMoniker": "Controllers\\FavoritoController.cs",
@@ -186,12 +198,11 @@
               "RelativeToolTip": "Controllers\\FavoritoController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAD4vxYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:08:11.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T04:08:11.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FavoritoServices.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Services\\FavoritoServices.cs",
               "RelativeDocumentMoniker": "Services\\FavoritoServices.cs",
@@ -199,12 +210,11 @@
               "RelativeToolTip": "Services\\FavoritoServices.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAUwCUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:05:10.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T04:05:10.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\DTOs\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductoDTO.cs",
@@ -212,12 +222,11 @@
               "RelativeToolTip": "DTOs\\ProductoDTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:56:55.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:56:55.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Favorito.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Models\\Favorito.cs",
               "RelativeDocumentMoniker": "Models\\Favorito.cs",
@@ -225,12 +234,11 @@
               "RelativeToolTip": "Models\\Favorito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:56:47.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:56:47.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DatabaseBgContext.cs",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\Models\\DatabaseBgContext.cs",
               "RelativeDocumentMoniker": "Models\\DatabaseBgContext.cs",
@@ -238,12 +246,11 @@
               "RelativeToolTip": "Models\\DatabaseBgContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T03:11:36.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:11:36.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\derec\\OneDrive\\Documents\\Viamatica\\BG\\BackBG\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
